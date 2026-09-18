@@ -1,3 +1,7 @@
 [build]
-  command = "npm -C .build/ run build"
-  publish = ".build/_site/"
+  base = ".build/"
+  command = "npm run build"
+  publish = "_site/"
+
+  # Exit 0 cancels build (no changes); exit 1 proceeds with build (changes detected)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF ../"
