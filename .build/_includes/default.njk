@@ -1,7 +1,7 @@
 {% extends 'blades/html.njk' %}
 
 {% if not site.prod %}
-  {% set site = site | attr_set('styles', site.styles | join('|') | replace('https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css', '') | split('|')) %}
+  {% set site = site | attr_set('styles', site.styles | join('|') | replace('https://cdn.jsdelivr.net/npm/@anyblades/blades@3/css', '') | split('|')) %}
 {% endif %}
 
 {% set content_for_header %}

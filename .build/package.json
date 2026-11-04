@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
-    "serve": "^14.2.5"
+    "serve": "^14.2.6"
   },
   "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
@@ -31,8 +31,7 @@
     "language": "en",
     "subtitle": "",
     "styles": [
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@3/css/blades.ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
