@@ -17,7 +17,7 @@ eleventyNavigation: { key: Home, order: 1 }
 
 <big>Best content-first micro-starter
 powered by [Build&nbsp;Awesome&nbsp;_One_](//buildawesome.one/)&nbsp;kit
-and [*Bl*ades&nbsp;CSS](//blades.ninja/)
+and [*Bl*ades&nbsp;CSS](//blades.dev/)
 —&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
 
 ---

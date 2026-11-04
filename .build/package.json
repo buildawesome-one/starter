@@ -25,7 +25,7 @@
       "name": "Anton Staroverov"
     },
     "base": "https://starter.buildawesome.one/",
-    "favicon": "https://blades.ninja/favicon.ico",
+    "favicon": "https://blades.dev/favicon.ico",
     "footer": "Powered by <b class='dark-auto'><object data='https://buildawesome.one/gh.svg'></object> × <object data='https://blades.dev/gh.svg'></object></b>",
     "generator": "Build Awesome One Starter (https://starter.buildawesome.one/)",
     "language": "en",
