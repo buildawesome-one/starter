@@ -70,6 +70,10 @@ https://github.com/11ty/eleventy-base-blog
 
 ---
 
+## [Blog](/blog/) included!
+
+---
+
 ## Local development
 
 As simple as:
