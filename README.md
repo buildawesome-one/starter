@@ -3,22 +3,12 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-<h1><sup style class="faded"><sub>11ty / Build Awesome<br></sub></sup><!-- <br> for GitHub only -->
+# [One¹](//buildawesome.one/) Starter
 
-[_One_](//buildawesome.one/) Starter
+<big>One of the smallest and easiest to maintain starters for 11ty / Build Awesome
+— perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
-</h1>
-
-<p>
-  <img src="https://img.shields.io/github/v/release/buildawesome-one/starter?label=&color=darkslategray&style=for-the-badge">
-  <a href="https://starter.buildawesome.one/" hidden><img src="https://img.shields.io/badge/Demo_➜-blue?style=for-the-badge"></a><!-- GitHub only -->
-  <object data="https://img.shields.io/github/stars/buildawesome-one/starter?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object><!-- won't render on GitHub -->
-</p>
-
-<big>Best content-first micro-starter
-powered by [Build&nbsp;Awesome&nbsp;_One_](//buildawesome.one/)&nbsp;kit
-and [*Bl*ades&nbsp;CSS](//blades.dev/)
-—&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
+Powered by [Build Awesome One¹](//buildawesome.one/) kit and [Blades CSS](//blades.dev/) micro-framework.
 
 ---
 
