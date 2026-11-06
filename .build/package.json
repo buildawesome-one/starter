@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@buildawesome.one/starter",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@awesome.me/buildawesome": "^4.0.0-0",
-    "@buildawesome.one/config": "^1.5.0"
+    "@buildawesome.one/config": "^1.5.4"
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
