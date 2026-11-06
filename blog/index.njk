@@ -4,7 +4,7 @@ title: Blog
 ---
 
 {% for page in collections.all %}
-  {% if page.url.startsWith('/blog/') and page.url != '/blog/' %}
+  {% if page.url and page.url.startsWith('/blog/') and page.url != '/blog/' %}
     <a href="{{ page.url }}" role="button" class="outline">
       <h3>{{ page.data.title }}</h3>
       {{ page.data.description }}

@@ -1,0 +1,4 @@
+- permalink: false
+  eleventyNavigation:
+    key: <i class="fa-brands fa-github"></i>
+    url: https://github.com/buildawesome-one/starter

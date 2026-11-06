@@ -17,7 +17,7 @@
 
 {% block body %}
   <nav class="container">
-    <ul><li><a href="/"><i class='fa-brands fa-square-build-awesome-stroke fa-lg'></i> <b>Logo</b></a></li></ul>
+    <ul><li><a href="/">{{ site.logo | safe }}</a></li></ul>
     {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
   </nav>
   <main class="container breakout-all">

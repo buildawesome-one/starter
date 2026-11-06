@@ -27,8 +27,9 @@
     "base": "https://starter.buildawesome.one/",
     "favicon": "https://blades.dev/favicon.ico",
     "footer": "Powered by <b class='dark-auto'><object data='https://buildawesome.one/gh.svg'></object> × <object data='https://blades.dev/gh.svg'></object></b>",
-    "generator": "Build Awesome One Starter (https://starter.buildawesome.one/)",
+    "generator": "Build Awesome One¹ Starter (https://starter.buildawesome.one/)",
     "language": "en",
+    "logo": "<i class='fa-brands fa-square-build-awesome-stroke fa-lg'></i> <b>Logo</b>",
     "subtitle": "",
     "styles": [
       "https://cdn.jsdelivr.net/npm/@anyblades/blades@3/css/blades.ninja.css?min=0",
@@ -41,7 +42,7 @@
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js"
     ],
-    "title": "11ty / Build Awesome One Starter"
+    "title": "11ty / Build Awesome One¹ Starter"
   },
   "---": "---"
 }
