@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: npm
-    directory: .build/
+    directory: /.build
     schedule:
       interval: weekly
