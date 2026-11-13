@@ -5,6 +5,8 @@ eleventyNavigation: { key: Home, order: 1 }
 
 # [One¹](//buildawesome.one/) Starter
 
+![](https://trendshift.io/api/badge/trendshift/repositories/78215/daily?language=Nunjucks)
+
 <big>One of the smallest and easiest to maintain starters for 11ty / Build Awesome
 — perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
