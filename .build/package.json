@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
-    "serve": "^14.2.6"
+    "serve": "^14.2.7"
   },
   "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
