@@ -12,12 +12,12 @@
     "build": "npm run cli -- build"
   },
   "dependencies": {
-    "@awesome.me/buildawesome": "^4.0.0-0",
+    "@awesome.me/buildawesome": "^4.0.0-alpha.11",
     "@sveti/ba1-config": "^1.5.4"
   },
   "devDependencies": {
-    "prettier-plugin-jinja-template": "^2.1.0",
-    "serve": "^14.2.7"
+    "prettier-plugin-jinja-template": "^2.2.0",
+    "serve": "^14.2.8"
   },
   "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
