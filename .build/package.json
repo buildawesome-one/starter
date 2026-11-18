@@ -1,19 +1,19 @@
 {
   "private": true,
-  "name": "@buildawesome.one/starter",
+  "name": "@sveti/ba1-starter",
   "version": "1.6.0",
   "license": "MIT",
   "type": "module",
   "scripts": {
     "precli": "[ -t 1 ] && clear || true",
-    "cli": "BA_OPTIONS='--input ../ --config node_modules/@buildawesome.one/config/buildawesome.config.js' npm -C .cli/ run",
+    "cli": "BA_OPTIONS='--input ../ --config node_modules/@sveti/ba1-config/buildawesome.config.js' npm -C .cli/ run",
     "start": "npm run cli -- start",
     "stage": "npm run cli -- stage",
     "build": "npm run cli -- build"
   },
   "dependencies": {
     "@awesome.me/buildawesome": "^4.0.0-0",
-    "@buildawesome.one/config": "^1.5.4"
+    "@sveti/ba1-config": "^1.5.4"
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
@@ -32,7 +32,7 @@
     "logo": "<i class='fa-brands fa-square-build-awesome-stroke fa-lg'></i> <b>Logo</b>",
     "subtitle": "",
     "styles": [
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@3/css/blades.ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@sveti/blades@3/css/blades.ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"

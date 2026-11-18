@@ -21,7 +21,7 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 <table class="borderless">
 <tr><th>
 
-https://github.com/buildawesome-one/starter
+https://github.com/open-sveti/ba1-starter
 
 </th><th><p>vs.</p></th><th>
 
